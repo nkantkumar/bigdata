@@ -42,4 +42,5 @@ Caused by: java.lang.IllegalArgumentException: Error while instantiating 'org.ap
 	at org.apache.spark.sql.internal.SharedState$.org$apache$spark$sql$internal$SharedState$$reflect(SharedState.scala:169)
 	at org.apache.spark.sql.internal.SharedState.<init>(SharedState.scala:86)
 
-sol- chmod 777 /tmp/hive			
+sol- chmod 777 /tmp/hive
+(6)			
